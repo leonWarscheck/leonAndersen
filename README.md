@@ -6,7 +6,7 @@ I'm a full-stack JavaScript developer at EarlyNode.com, building and maintaining
 
 I am passionate about TDD, functional programming and currently I am most excited about the capabilities of Remix.
 
-My other skills are: Audio Engineering/ Musicproduction (studied that), Psychology (trained in IFS and NLP) and Media Design (using Adobe Suite since being a kid).
+My other skills are: Audio Engineering/ Musicproduction (studied that), Psychology (trained in IFS and NLP) and Media Design (using Adobe Suite since I was 14 years).
 
 ---
 ### Tech Stack
