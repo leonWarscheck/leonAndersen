@@ -1,4 +1,4 @@
-[![Visit EarlyNode.com!](https://github.com/leonAndersen/leonAndersen/raw/ef4a4c69b6840e272002d205400a2ef4349b8cf6/EarlyNode-banner.png)](https://earlynode.com/)
+[![Visit ReactSquad.io!](https://github.com/leonAndersen/leonAndersen/blob/8666df1aded715d8f963964390beaf601f8e219d/reactsquadbanner2.jpg)](https://reactsquad.io/)
 
 ## Hi, I'm Leon Andersen
 
