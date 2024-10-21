@@ -2,7 +2,7 @@
 
 ## Hi, I'm Leon Andersen
 
-I'm a full-stack JavaScript developer at ReactSquad.com, building and maintaining web-apps for companies world wide.
+I'm a full-stack JavaScript developer at ReactSquad.io, building and maintaining web-apps for companies world wide.
 
 I am passionate about TDD, functional programming and currently I am most excited about the capabilities of Remix.
 
