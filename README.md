@@ -2,11 +2,11 @@
 
 ## Hi, I'm Leon Andersen
 
-I'm a full-stack JavaScript developer at EarlyNode.com, building and maintaining web-apps for companies world wide.
+I'm a full-stack JavaScript developer at ReactSquad.com, building and maintaining web-apps for companies world wide.
 
 I am passionate about TDD, functional programming and currently I am most excited about the capabilities of Remix.
 
-My other skills are: Audio Engineering/ Musicproduction (studied that), Psychology (trained in IFS and NLP) and Media Design (using Adobe Suite since I was 14 years).
+My other skills are: Audio Engineering/ Musicproduction (I studied that), Psychology (I'm trained in IFS and NLP) and Media Design (I use Adobe Suite since over 14 years).
 
 ---
 ### Tech Stack
@@ -17,4 +17,4 @@ My other skills are: Audio Engineering/ Musicproduction (studied that), Psycholo
 - Node.Js, Express, OpenAi
 ---
 
-_"Creative power is head and heart working together."_
+_"True creative power is head and heart working together."_
