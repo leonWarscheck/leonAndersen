@@ -6,7 +6,7 @@ I'm a full-stack JavaScript developer at ReactSquad.io, building and maintaining
 
 I am passionate about TDD, functional programming and currently I am most excited about the capabilities of Remix.
 
-My other skills are: Audio Engineering/ Musicproduction (I studied that), Psychology (I'm trained in IFS and NLP) and Media Design (I use Adobe Suite since over 14 years).
+My other skills are: Audio Engineering/ Musicproduction (I studied that), Psychology (I'm trained in IFS and NLP) and Media Design (I use Adobe Suite for 15+ years).
 
 ---
 ### Tech Stack
