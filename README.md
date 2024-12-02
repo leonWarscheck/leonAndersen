@@ -1,6 +1,6 @@
 [![Visit ReactSquad.io!](https://github.com/leonAndersen/leonAndersen/blob/8666df1aded715d8f963964390beaf601f8e219d/reactsquadbanner2.jpg)](https://reactsquad.io/)
 
-## Hi, I'm Leon Andersen
+## Hi, I'm Leon Warscheck
 
 I'm a full-stack JavaScript developer at ReactSquad.io, building and maintaining web-apps for companies world wide.
 
